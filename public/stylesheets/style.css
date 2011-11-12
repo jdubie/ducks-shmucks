@@ -1,0 +1,27 @@
+body { background: #990000 url('/images/noise.png'); margin: 25px }
+
+h1 { color: #fff;
+    font-family: 'Paytone One', arial, serif;
+    font-size: 60px;
+    margin-bottom: 30px;
+    text-shadow: #013 0 10px 15px, #013 0 0 1px;
+    font-weight: bold;
+}
+
+p {
+  font-family: Tahoma, arial, serif;
+  font-size: 26px;
+  color: #fff;
+  text-shadow: #013 0 4px 12px, #013 0 0 1px;
+}
+
+p.date { font-size: 30px; font-weight: bold; color: #bbb; }
+/*#date p.item { font-size: 26px; margin-left: 0px; margin-left:20px; }*/
+
+img { display: block; }
+img.thumbnail { float: right; margin: 40px;}
+
+#luck {float: right; }
+#chip {float: left; }
+
+.fb-like { float: right }
