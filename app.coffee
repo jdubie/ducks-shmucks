@@ -29,6 +29,6 @@ app.get '/flyer', (req,res) ->
   res.render 'flyer'
 
 
-app.listen 3001
+app.listen 3002
 
 console.log "Express server listening on port %d in %s mode", app.address().port, app.settings.env
