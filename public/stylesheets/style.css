@@ -18,10 +18,10 @@ p {
 p.date { font-size: 30px; font-weight: bold; color: #bbb; }
 /*#date p.item { font-size: 26px; margin-left: 0px; margin-left:20px; }*/
 
-img { display: block; }
+img { display: block; max-width: 400px; }
 img.thumbnail { float: right; margin: 40px;}
 
-#luck {float: right; }
-#chip {float: left; }
+#luck {float: left; }
+#chip {float: right; }
 
 .fb-like { float: right }
